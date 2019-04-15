@@ -19,4 +19,4 @@ $ lein run 20 (i.e it will run for first 20 prime numbers)
 
 Similarly, to execute the test suite:
 
-$ lein testREADME.md
+$ lein test
